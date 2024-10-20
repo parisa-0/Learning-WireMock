@@ -22,7 +22,7 @@ The goal of this project is to simulate a service call to an external API that p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/parisa-0/timezone-service-testing.git
+   git clone https://github.com/parisa-0/Learning-WireMock.git
 Navigate to the project directory:
 
 cd timezone-service-testing
